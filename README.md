@@ -1,6 +1,6 @@
 # Termux-Banner
 
-#Script by Sutariya Parixit
+#Script by Deyon Sebastian
 
 Installation Step :
 
